@@ -11,7 +11,7 @@ app.get('/', (req, res) => res.send('Hello World!'))
 
 
 
-
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
 
 
 
