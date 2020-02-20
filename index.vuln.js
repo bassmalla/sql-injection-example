@@ -8,7 +8,7 @@ const port = 3000
 app.get('/', (req, res) => res.send('Hello World!'))
 
 
-
+let PASSWORD = '12345'
 
 
 let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
