@@ -8,6 +8,15 @@ const port = 3000
 app.get('/', (req, res) => res.send('Hello World!'))
 
 
+
+
+
+
+
+
+
+
+
 const Vulnerability = (req, res) => {
     database.query("SELECT * FROM ITEMS WHERE ID=" + req.params.id,(err, result) => {
         res.json(result);
