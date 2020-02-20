@@ -4,7 +4,7 @@ const database = require('./db');
 const app = express()
 const port = 3000
 
-
+let AWS_KEY = 'AKIAIOSFODNN7EXAMPLE'
 app.get('/', (req, res) => res.send('Hello World!'))
 
 
