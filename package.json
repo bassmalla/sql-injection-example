@@ -11,7 +11,7 @@
     "url": "git+https://github.com/shieldfy-vulnerability-hub/reflected-xss-example.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "ISC", 
   "bugs": {
     "url": "https://github.com/shieldfy-vulnerability-hub/reflected-xss-example/issues"
   },
